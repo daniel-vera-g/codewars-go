@@ -1,5 +1,7 @@
 package kyu7
 
+// https://www.codewars.com/kata/56b7f2f3f18876033f000307
+
 // InAscOrder gets an array of integers as input
 // return a bool if the array is in ascending order
 func InAscOrder(numbers []int) bool {

@@ -5,6 +5,7 @@ import (
 )
 
 // https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9
+
 // FindShort returns the shortest number in for a given array of words
 func FindShort(s string) int {
 

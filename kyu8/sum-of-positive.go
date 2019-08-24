@@ -1,6 +1,7 @@
 package kyu8
 
 // https://www.codewars.com/kata/sum-of-positive/train/go
+
 // PositiveSum returns the summ of all positive numbers in an array
 func PositiveSum(numbers []int) int {
 
